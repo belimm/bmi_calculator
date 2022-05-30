@@ -1,4 +1,4 @@
-# hw3
+# BMI Calculator with Flutter
 
 This project is a project designed purely for personal development purposes.
 
