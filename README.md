@@ -1,16 +1,8 @@
 # hw3
 
-A new Flutter project.
+This project is a project designed purely for personal development purposes.
 
-## Getting Started
+Make sure you have the necessary SDKs installed to run this project and you can run it with any simulator or emulator on main.dart.
 
-This project is a starting point for a Flutter application.
+A simple demo of the project appears on the iPhone 13 in the video below
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
